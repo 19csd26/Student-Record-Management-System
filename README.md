@@ -6,17 +6,16 @@ At its core, the system offers a user-friendly interface that empowers administr
 
 <b> Key features </b> of the "Student-Record-Management-System" include:
 
-## Enrollment Management:
-Facilitates easy registration and enrollment of students, including capturing essential information such as personal details, academic history, and course selections.
+<b>Enrollment Management: </b> Facilitates easy registration and enrollment of students, including capturing essential information such as personal details, academic history, and course selections.
 
-Attendance Tracking: Enables educators to effortlessly record and monitor student attendance, providing real-time insights into student participation and engagement.
+<b>Attendance Tracking:</b> Enables educators to effortlessly record and monitor student attendance, providing real-time insights into student participation and engagement.
 
-Grades Management: Streamlines the process of grading and assessment, allowing educators to input and analyze student grades, generate reports, and provide feedback efficiently.
+<b>Grades Management:</b> Streamlines the process of grading and assessment, allowing educators to input and analyze student grades, generate reports, and provide feedback efficiently.
 
-Communication Tools: Offers communication features that foster collaboration and engagement between students, educators, and administrators, including messaging systems, announcements, and notifications.
+<b>Communication Tools:</b> Offers communication features that foster collaboration and engagement between students, educators, and administrators, including messaging systems, announcements, and notifications.
 
-Data Security: Implements robust security measures to ensure the confidentiality and integrity of student data, including role-based access control and encryption protocols.
+<b>Data Security: </b> Implements robust security measures to ensure the confidentiality and integrity of student data, including role-based access control and encryption protocols.
 
-Reporting and Analytics: Provides comprehensive reporting capabilities and analytics tools that offer valuable insights into student performance, trends, and areas for improvement.
+<b>Reporting and Analytics: </b> Provides comprehensive reporting capabilities and analytics tools that offer valuable insights into student performance, trends, and areas for improvement.
 
-The "Student-Record-Management-System" stands out for its scalability, flexibility, and reliability, making it an indispensable tool for educational institutions seeking to optimize their administrative processes and enhance student success. Whether managing a small school or a large university, this system empowers users to efficiently manage student records and drive positive educational outcomes.
+The <b>"Student-Record-Management-System" </b>stands out for its scalability, flexibility, and reliability, making it an indispensable tool for educational institutions seeking to optimize their administrative processes and enhance student success. Whether managing a small school or a large university, this system empowers users to efficiently manage student records and drive positive educational outcomes.
